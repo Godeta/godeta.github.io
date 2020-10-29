@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>An example title | Arnaud GODET</title>
+    <link>https://godeta.github.io/post/</link>
+      <atom:link href="https://godeta.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>An example title</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© all rights reserved by Godeta</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://godeta.github.io/images/icon_hu2aeeba9780762ed6bd5ae91e87ef4a95_29694_512x512_fill_lanczos_center_2.png</url>
+      <title>An example title</title>
+      <link>https://godeta.github.io/post/</link>
+    </image>
+    
+  </channel>
+</rss>
