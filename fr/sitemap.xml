@@ -3,36 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://godeta.github.io/fr/post/</loc>
-    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://godeta.github.io/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://godeta.github.io/fr/post/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://godeta.github.io/fr/</loc>
-    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://godeta.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://godeta.github.io/fr/"
-                />
-  </url>
-  
-  <url>
     <loc>https://godeta.github.io/fr/author/arnaud-godet/</loc>
     <xhtml:link
                 rel="alternate"
@@ -43,6 +13,20 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://godeta.github.io/fr/author/arnaud-godet/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://godeta.github.io/fr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://godeta.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://godeta.github.io/fr/"
                 />
   </url>
   
@@ -71,6 +55,48 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://godeta.github.io/fr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://godeta.github.io/fr/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://godeta.github.io/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://godeta.github.io/fr/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://godeta.github.io/fr/exp/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://godeta.github.io/en/exp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://godeta.github.io/fr/exp/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://godeta.github.io/fr/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://godeta.github.io/en/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://godeta.github.io/fr/projects/"
                 />
   </url>
   

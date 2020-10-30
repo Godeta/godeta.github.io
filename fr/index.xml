@@ -5,12 +5,36 @@
     <link>https://godeta.github.io/fr/</link>
       <atom:link href="https://godeta.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
     <description>Arnaud GODET fr</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>i-default</language><copyright>© all rights reserved by Godeta</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>i-default</language><copyright>© Free to use, made using the Academic library</copyright>
     <image>
       <url>https://godeta.github.io/images/icon_hu2aeeba9780762ed6bd5ae91e87ef4a95_29694_512x512_fill_lanczos_center_2.png</url>
       <title>Arnaud GODET fr</title>
       <link>https://godeta.github.io/fr/</link>
     </image>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://godeta.github.io/fr/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://godeta.github.io/fr/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://godeta.github.io/fr/exp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://godeta.github.io/fr/exp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://godeta.github.io/fr/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://godeta.github.io/fr/projects/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
