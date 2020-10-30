@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scraping | Arnaud GODET</title>
+    <link>https://godeta.github.io/fr/tag/scraping/</link>
+      <atom:link href="https://godeta.github.io/fr/tag/scraping/index.xml" rel="self" type="application/rss+xml" />
+    <description>scraping</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>i-default</language><copyright>© Free to use, made using the Academic library</copyright><lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://godeta.github.io/images/icon_hu2aeeba9780762ed6bd5ae91e87ef4a95_29694_512x512_fill_lanczos_center_2.png</url>
+      <title>scraping</title>
+      <link>https://godeta.github.io/fr/tag/scraping/</link>
+    </image>
+    
+    <item>
+      <title>Geneanet to gedcom scraping</title>
+      <link>https://godeta.github.io/fr/project/geneanet_scraper/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://godeta.github.io/fr/project/geneanet_scraper/</guid>
+      <description>&lt;p&gt;C&amp;rsquo;est un projet de 2ème année à l&amp;rsquo;IUT, nous avons donc un client et 2 professeurs tuteurs, travaillons en commun à l&amp;rsquo;aide de git et en utilisant la méthode agile (nous faisons donc plusieurs rendus au client jusqu&amp;rsquo;au rendu final). &lt;a href=&#34;https://en.geneanet.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Geneanet&lt;/a&gt; est un site qui contient les arbres génealogiques déposés par 4 millions d&amp;rsquo;utilisateurs, cependant même si on peut les consulter (lorsqu&amp;rsquo;ils sont publics) pour notre client amateur de Genealogie et souhaitant agrandir son arbre génealogique, il est pénible de réecrire dans son logiciel Heredis, chaque individus. Notre rôle est donc de concevoir une application qui n&amp;rsquo;a besoin que de l&amp;rsquo;url du profil souhaité et d&amp;rsquo;un clic pour récupérer l&amp;rsquo;ensemble de l&amp;rsquo;arbre Genealogique dans un fichier Gedcom que le client peut ensuite importer avec son logiciel.&lt;/p&gt;
+&lt;p&gt;Les étapes importantes de développement sont donc :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;réaliser un programme capable de scraper un profil, c&amp;rsquo;est à dire récupérer les informations de la page web du profil grace à son DOM&lt;/li&gt;
+&lt;li&gt;s&amp;rsquo;adapter selon les variations de html-css entre certaines pages (certains profils n&amp;rsquo;ont pas certaines informations par exemple)&lt;/li&gt;
+&lt;li&gt;effectuer le scraping de manière récursive sur l&amp;rsquo;ensemble des individus de l&amp;rsquo;arbre et les enregistrer&lt;/li&gt;
+&lt;li&gt;nettoyer les informations récupérées (dates incorrectes, nom mauvais format&amp;hellip;)&lt;/li&gt;
+&lt;li&gt;ecrire ces informations sous le format Gedcom 5.5 (un format bien particulié pour les fichiers de Genealogie )&lt;/li&gt;
+&lt;li&gt;concevoir une application proposant à l&amp;rsquo;utilisateur d&amp;rsquo;entrer l&amp;rsquo;URL et effectuant toutes les actions en un clic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Exemple de profil :
+&lt;img src=&#34;dessin.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;(ce projet est encore en cours de développement)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Godeta/Geneanet_toGedcom_webScraping&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cliquez ici pour voir le code.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
