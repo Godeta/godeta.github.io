@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>server | Arnaud GODET</title>
+    <link>https://godeta.github.io/en/tag/server/</link>
+      <atom:link href="https://godeta.github.io/en/tag/server/index.xml" rel="self" type="application/rss+xml" />
+    <description>server</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Free to use, made using the Academic library</copyright><lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://godeta.github.io/images/icon_hu2aeeba9780762ed6bd5ae91e87ef4a95_29694_512x512_fill_lanczos_center_2.png</url>
+      <title>server</title>
+      <link>https://godeta.github.io/en/tag/server/</link>
+    </image>
+    
+    <item>
+      <title>NodeJS_WeatherLocation</title>
+      <link>https://godeta.github.io/en/project/nodeweatherloc/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://godeta.github.io/en/project/nodeweatherloc/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://nodejs-weather-location-webcam.herokuapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here to see the project.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This was a personnal project that I realised inspiring myself from the tutorial of Dan Shiffman from the channel &amp;ldquo;The coding Train&amp;rdquo;. As an user you can make a drawing and send it to the base like here :
+&lt;img src=&#34;dessin.jpg&#34; alt=&#34;&#34;&gt;
+and then look at the different content of the base, sort them by time or by name :&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;result.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;You can also take a picture with your webcam or ask the website to give you the weather at your location, save it in the base and look at a map with pointers to the locations present in the base.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>agario remix</title>
+      <link>https://godeta.github.io/en/project/agario/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://godeta.github.io/en/project/agario/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://agario-online-mult-remix.herokuapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here to play &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Another personnal project of mine which I started mostly as a joke (making an agario game where you can play with my friends&amp;rsquo;s faces) but ended up having to learn networking in order to make it playable online and it became a pretty big project.
+Quick remarks :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;in the game clic in the direction you want to move&lt;/li&gt;
+&lt;li&gt;you can open the game in different tabs to see for yourself how it works with different players&lt;/li&gt;
+&lt;li&gt;have fun !&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Godeta/Agario_JS_multi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;You can see the code here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

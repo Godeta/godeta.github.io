@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>school | Arnaud GODET</title>
+    <link>https://godeta.github.io/fr/tag/school/</link>
+      <atom:link href="https://godeta.github.io/fr/tag/school/index.xml" rel="self" type="application/rss+xml" />
+    <description>school</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>i-default</language><copyright>© Free to use, made using the Academic library</copyright><lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://godeta.github.io/images/icon_hu2aeeba9780762ed6bd5ae91e87ef4a95_29694_512x512_fill_lanczos_center_2.png</url>
+      <title>school</title>
+      <link>https://godeta.github.io/fr/tag/school/</link>
+    </image>
+    
+    <item>
+      <title>Tic tac toe remix -&gt; Gobblet Gobblers</title>
+      <link>https://godeta.github.io/fr/project/gobblet_gobblers/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://godeta.github.io/fr/project/gobblet_gobblers/</guid>
+      <description>&lt;p&gt;C&amp;rsquo;était un projet de 1ère année à l&amp;rsquo;IUT, dont le but était de concevoir en C, en ligne de commandes, une version amméliorée du morpion, un peu plus complexe et de fournir un make file que l&amp;rsquo;on peut executer pour compiler le programme. Ce projet utilise des dépendances propres à Linux, sous windows on peut utiliser WSL pour executer le programme (disponible dans le windows app store cela permet de simuler un environnement Linux très facilement et rapidement).
+Petite démonstration du programme lancé avec WSL :&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;affichage.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Godeta/Gobblet-Gobblers-C&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cliquez ici pour voir le code.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

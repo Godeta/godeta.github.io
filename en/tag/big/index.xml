@@ -30,7 +30,7 @@
 &lt;p&gt;Profile example :
 &lt;img src=&#34;dessin.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;(this project is still in progress)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/Godeta/Geneanet_toGedcom_webScraping&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cliquez ici pour voir le code.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Godeta/Geneanet_toGedcom_webScraping&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here to see the code.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -39,7 +39,7 @@
       <link>https://godeta.github.io/en/project/nodeweatherloc/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://godeta.github.io/en/project/nodeweatherloc/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://nodejs-weather-location-webcam.herokuapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Clic here to see the project.&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://nodejs-weather-location-webcam.herokuapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here to see the project.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This was a personnal project that I realised inspiring myself from the tutorial of Dan Shiffman from the channel &amp;ldquo;The coding Train&amp;rdquo;. As an user you can make a drawing and send it to the base like here :
 &lt;img src=&#34;dessin.jpg&#34; alt=&#34;&#34;&gt;
 and then look at the different content of the base, sort them by time or by name :&lt;/p&gt;
@@ -53,7 +53,7 @@ and then look at the different content of the base, sort them by time or by name
       <link>https://godeta.github.io/en/project/agario/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://godeta.github.io/en/project/agario/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://agario-online-mult-remix.herokuapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Clic here to play &lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://agario-online-mult-remix.herokuapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here to play &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Another personnal project of mine which I started mostly as a joke (making an agario game where you can play with my friends&amp;rsquo;s faces) but ended up having to learn networking in order to make it playable online and it became a pretty big project.
 Quick remarks :&lt;/p&gt;
 &lt;ul&gt;

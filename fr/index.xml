@@ -5,12 +5,23 @@
     <link>https://godeta.github.io/fr/</link>
       <atom:link href="https://godeta.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
     <description>Arnaud GODET</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>i-default</language><copyright>© Free to use, made using the Academic library</copyright><lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>i-default</language><copyright>© Free to use, made using the Academic library</copyright><lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://godeta.github.io/images/icon_hu2aeeba9780762ed6bd5ae91e87ef4a95_29694_512x512_fill_lanczos_center_2.png</url>
       <title>Arnaud GODET</title>
       <link>https://godeta.github.io/fr/</link>
     </image>
+    
+    <item>
+      <title>Space invaders</title>
+      <link>https://godeta.github.io/fr/project/space_invaders/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://godeta.github.io/fr/project/space_invaders/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://godeta.github.io/space-invaders-JS/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cliquez ici pour jouer au jeu.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Un projet personnel réalisé principalement en Javascript avec la librairie P5.js. C&amp;rsquo;est un jeu Space invaders avec quelque images libre de droit, optimisé, disponible en ligne et avec quelque possibilitées (changer la difficulté, feu d&amp;rsquo;artifice lors de la victoire ou défaite&amp;hellip;.) On se déplace avec les flèches et on tire en appuyant sur la barre espace.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Godeta/space-invaders-JS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cliquez ici pour voir le code.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Geneanet to gedcom scraping</title>
@@ -46,6 +57,31 @@ et après regarder le contenu de la base et le trier par date ou par nom :&lt;/p
 &lt;p&gt;&lt;img src=&#34;result.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Vous pouvez également prendre une photo avec votre webcam ou demander au site de vous donner la météo à votre localisation, sauvegarder ces informations dans la base et regarder la map qui à des marqueurs aux localisations qu&amp;rsquo;elle a en réserve.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/Godeta/NodeJS_WeatherLocation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cliquez ici pour voir le code.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Java first animation with Swing</title>
+      <link>https://godeta.github.io/fr/project/javafirstanim/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://godeta.github.io/fr/project/javafirstanim/</guid>
+      <description>&lt;p&gt;Un de mes premiers projets personnels de programmation qui m&amp;rsquo;a fait découvrir à la fois Eclipse, Java et Swing une bibliothèque graphique directement intégrée dans le JDK de Java. Il n&amp;rsquo;est pas du tout optimisé et pratique à installer (il faut télecharger la dernière release sur github, dezipper le tout et lancer le fichier jar ou cloner le dépot github et mettre dans le fichier le jre adéquat) mais il fonctionne correctement et contient quelques easter eggs. &lt;a href=&#34;https://github.com/Godeta/JavaFirstAnimation/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lien pour voir les releases et télécharger la dernière&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ce projet a été fait avant tout pour le plaisir et contient plusieurs blagues (notamment un mode JUL, des musiques&amp;hellip;).&lt;/p&gt;
+&lt;p&gt;Petite démonstration du projet :
+&lt;img src=&#34;affichage.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Godeta/JavaFirstAnimation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cliquez ici pour voir le code.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tic tac toe remix -&gt; Gobblet Gobblers</title>
+      <link>https://godeta.github.io/fr/project/gobblet_gobblers/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://godeta.github.io/fr/project/gobblet_gobblers/</guid>
+      <description>&lt;p&gt;C&amp;rsquo;était un projet de 1ère année à l&amp;rsquo;IUT, dont le but était de concevoir en C, en ligne de commandes, une version amméliorée du morpion, un peu plus complexe et de fournir un make file que l&amp;rsquo;on peut executer pour compiler le programme. Ce projet utilise des dépendances propres à Linux, sous windows on peut utiliser WSL pour executer le programme (disponible dans le windows app store cela permet de simuler un environnement Linux très facilement et rapidement).
+Petite démonstration du programme lancé avec WSL :&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;affichage.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Godeta/Gobblet-Gobblers-C&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cliquez ici pour voir le code.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -5,12 +5,23 @@
     <link>https://godeta.github.io/en/project/</link>
       <atom:link href="https://godeta.github.io/en/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Free to use, made using the Academic library</copyright><lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Free to use, made using the Academic library</copyright><lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://godeta.github.io/images/icon_hu2aeeba9780762ed6bd5ae91e87ef4a95_29694_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://godeta.github.io/en/project/</link>
     </image>
+    
+    <item>
+      <title>Space invaders</title>
+      <link>https://godeta.github.io/en/project/space_invaders/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://godeta.github.io/en/project/space_invaders/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://godeta.github.io/space-invaders-JS/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here to play the game.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A personnal project realised mostly in Javascript with the P5.js library. This is a Space invaders game with some free images, optimised, available online and with some possibilites (change the difficulty, fireworks when you win or lose&amp;hellip;) You move with the keyboard arrows and fire by pressing space.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Godeta/space-invaders-JS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here to see the code.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Geneanet to gedcom scraping</title>
@@ -30,7 +41,7 @@
 &lt;p&gt;Profile example :
 &lt;img src=&#34;dessin.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;(this project is still in progress)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/Godeta/Geneanet_toGedcom_webScraping&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cliquez ici pour voir le code.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Godeta/Geneanet_toGedcom_webScraping&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here to see the code.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -39,7 +50,7 @@
       <link>https://godeta.github.io/en/project/nodeweatherloc/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://godeta.github.io/en/project/nodeweatherloc/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://nodejs-weather-location-webcam.herokuapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Clic here to see the project.&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://nodejs-weather-location-webcam.herokuapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here to see the project.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This was a personnal project that I realised inspiring myself from the tutorial of Dan Shiffman from the channel &amp;ldquo;The coding Train&amp;rdquo;. As an user you can make a drawing and send it to the base like here :
 &lt;img src=&#34;dessin.jpg&#34; alt=&#34;&#34;&gt;
 and then look at the different content of the base, sort them by time or by name :&lt;/p&gt;
@@ -49,11 +60,36 @@ and then look at the different content of the base, sort them by time or by name
     </item>
     
     <item>
+      <title>Java first animation with Swing</title>
+      <link>https://godeta.github.io/en/project/javafirstanim/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://godeta.github.io/en/project/javafirstanim/</guid>
+      <description>&lt;p&gt;One of my first personnal programming projects which made me discover at the same time Eclipse, Java and Swing a library directly integrated in the Java JDK to make graphical interfaces. It isn&amp;rsquo;t optimized at all and not very practical to setup (you need to download the last release on github, dezip it and launch the jar file or clone the github repository and put in the folder the correct JRE) but it works fine and have some easter eggs. &lt;a href=&#34;https://github.com/Godeta/JavaFirstAnimation/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link to see the releases and download the last one&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This project was made before all for fun and have some jokes (especially a mode JUL like the french singer, musics&amp;hellip;).&lt;/p&gt;
+&lt;p&gt;A small presentation of the project :
+&lt;img src=&#34;affichage.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Godeta/JavaFirstAnimation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here to see the code.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tic tac toe remix -&gt; Gobblet Gobblers</title>
+      <link>https://godeta.github.io/en/project/gobblet_gobblers/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://godeta.github.io/en/project/gobblet_gobblers/</guid>
+      <description>&lt;p&gt;This was a first year project at the IUT, the purpose was to make in C, in command line, an improved version of the tic-tac-toe game, a bit more complex and give a make file that we can execute in order to compile the program. This project use dependancies only available in Linux, for windows you can use WSL to execute the program (available in the windows app store this allows you to simulate a Linux environnement very easily and fast).
+A small demonstration of the project launched with WSL :
+&lt;img src=&#34;affichage.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Godeta/Gobblet-Gobblers-C&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here to see the code.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>agario remix</title>
       <link>https://godeta.github.io/en/project/agario/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://godeta.github.io/en/project/agario/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://agario-online-mult-remix.herokuapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Clic here to play &lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://agario-online-mult-remix.herokuapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here to play &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Another personnal project of mine which I started mostly as a joke (making an agario game where you can play with my friends&amp;rsquo;s faces) but ended up having to learn networking in order to make it playable online and it became a pretty big project.
 Quick remarks :&lt;/p&gt;
 &lt;ul&gt;

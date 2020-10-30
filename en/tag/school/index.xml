@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>school | Arnaud GODET</title>
+    <link>https://godeta.github.io/en/tag/school/</link>
+      <atom:link href="https://godeta.github.io/en/tag/school/index.xml" rel="self" type="application/rss+xml" />
+    <description>school</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Free to use, made using the Academic library</copyright><lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://godeta.github.io/images/icon_hu2aeeba9780762ed6bd5ae91e87ef4a95_29694_512x512_fill_lanczos_center_2.png</url>
+      <title>school</title>
+      <link>https://godeta.github.io/en/tag/school/</link>
+    </image>
+    
+    <item>
+      <title>Tic tac toe remix -&gt; Gobblet Gobblers</title>
+      <link>https://godeta.github.io/en/project/gobblet_gobblers/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://godeta.github.io/en/project/gobblet_gobblers/</guid>
+      <description>&lt;p&gt;This was a first year project at the IUT, the purpose was to make in C, in command line, an improved version of the tic-tac-toe game, a bit more complex and give a make file that we can execute in order to compile the program. This project use dependancies only available in Linux, for windows you can use WSL to execute the program (available in the windows app store this allows you to simulate a Linux environnement very easily and fast).
+A small demonstration of the project launched with WSL :
+&lt;img src=&#34;affichage.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Godeta/Gobblet-Gobblers-C&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here to see the code.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

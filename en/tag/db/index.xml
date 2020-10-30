@@ -17,7 +17,7 @@
       <link>https://godeta.github.io/en/project/nodeweatherloc/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://godeta.github.io/en/project/nodeweatherloc/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://nodejs-weather-location-webcam.herokuapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Clic here to see the project.&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://nodejs-weather-location-webcam.herokuapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here to see the project.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This was a personnal project that I realised inspiring myself from the tutorial of Dan Shiffman from the channel &amp;ldquo;The coding Train&amp;rdquo;. As an user you can make a drawing and send it to the base like here :
 &lt;img src=&#34;dessin.jpg&#34; alt=&#34;&#34;&gt;
 and then look at the different content of the base, sort them by time or by name :&lt;/p&gt;
