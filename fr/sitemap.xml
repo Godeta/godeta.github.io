@@ -3,6 +3,110 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://godeta.github.io/fr/</loc>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://godeta.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://godeta.github.io/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://godeta.github.io/fr/tag/big/</loc>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://godeta.github.io/en/tag/big/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://godeta.github.io/fr/tag/big/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://godeta.github.io/fr/tag/db/</loc>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://godeta.github.io/en/tag/db/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://godeta.github.io/fr/tag/db/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://godeta.github.io/fr/project/nodeweatherloc/</loc>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://godeta.github.io/en/project/nodeweatherloc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://godeta.github.io/fr/project/nodeweatherloc/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://godeta.github.io/fr/project/</loc>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://godeta.github.io/en/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://godeta.github.io/fr/project/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://godeta.github.io/fr/tags/</loc>
+    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://godeta.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://godeta.github.io/fr/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://godeta.github.io/fr/project/agario/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://godeta.github.io/en/project/agario/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://godeta.github.io/fr/project/agario/"
+                />
+  </url>
+  
+  <url>
     <loc>https://godeta.github.io/fr/author/arnaud-godet/</loc>
     <xhtml:link
                 rel="alternate"
@@ -13,20 +117,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://godeta.github.io/fr/author/arnaud-godet/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://godeta.github.io/fr/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://godeta.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://godeta.github.io/fr/"
                 />
   </url>
   
@@ -87,6 +177,20 @@
   </url>
   
   <url>
+    <loc>https://godeta.github.io/fr/tag/game/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://godeta.github.io/en/tag/game/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://godeta.github.io/fr/tag/game/"
+                />
+  </url>
+  
+  <url>
     <loc>https://godeta.github.io/fr/projects/</loc>
     <xhtml:link
                 rel="alternate"
@@ -111,20 +215,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://godeta.github.io/fr/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://godeta.github.io/fr/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://godeta.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://godeta.github.io/fr/tags/"
                 />
   </url>
   

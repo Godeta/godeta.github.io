@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arnaud GODET fr</title>
-    <link>https://godeta.github.io/fr/</link>
-      <atom:link href="https://godeta.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
-    <description>Arnaud GODET fr</description>
+    <title>Projects | Arnaud GODET fr</title>
+    <link>https://godeta.github.io/fr/project/</link>
+      <atom:link href="https://godeta.github.io/fr/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>i-default</language><copyright>© Free to use, made using the Academic library</copyright><lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://godeta.github.io/images/icon_hu2aeeba9780762ed6bd5ae91e87ef4a95_29694_512x512_fill_lanczos_center_2.png</url>
-      <title>Arnaud GODET fr</title>
-      <link>https://godeta.github.io/fr/</link>
+      <title>Projects</title>
+      <link>https://godeta.github.io/fr/project/</link>
     </image>
     
     <item>
@@ -42,30 +42,6 @@ Remarques rapides :&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/Godeta/Agario_JS_multi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vous pouvez voir le code ici&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Contacts</title>
-      <link>https://godeta.github.io/fr/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://godeta.github.io/fr/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Experience</title>
-      <link>https://godeta.github.io/fr/exp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://godeta.github.io/fr/exp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://godeta.github.io/fr/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://godeta.github.io/fr/projects/</guid>
-      <description></description>
     </item>
     
   </channel>
