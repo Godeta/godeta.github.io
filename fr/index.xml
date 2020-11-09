@@ -61,6 +61,17 @@ et après regarder le contenu de la base et le trier par date ou par nom :&lt;/p
     </item>
     
     <item>
+      <title>Mastermind JS</title>
+      <link>https://godeta.github.io/fr/project/mastermind-js/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://godeta.github.io/fr/project/mastermind-js/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://godeta.github.io/Mastermind_JS/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cliquez ici pour jouer au jeu.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ce projet fut réalisé avec un camarade de classe pour un cours sur les interfaces homme marchine. C&amp;rsquo;était notre premier projet avec Javascript et le jeu n&amp;rsquo;étant pas responsif il pourrait ne pas fonctionner correctement selon la taille de l&amp;rsquo;écran. Ce fut tout de même une experience enrichissante d&amp;rsquo;utiliser par exemple des animations CSS pour le menu et les méchaniques du jeu fonctionnent correctement.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Godeta/Mastermind_JS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cliquez ici pour voir le code.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Java first animation with Swing</title>
       <link>https://godeta.github.io/fr/project/javafirstanim/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>

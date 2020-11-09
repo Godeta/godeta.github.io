@@ -24,6 +24,17 @@
     </item>
     
     <item>
+      <title>Mastermind JS</title>
+      <link>https://godeta.github.io/en/project/mastermind-js/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://godeta.github.io/en/project/mastermind-js/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://godeta.github.io/Mastermind_JS/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here to play the game.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This project was realized with a classmate for the human-manchine interface class. This was our first project with Javascript and considering the game isn&amp;rsquo;t responsive it might not work correctly depending on the size of your screen. Nevertheless, this was an interesting experience to use CSS animations for the menu or making the game mechanics work.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Godeta/Mastermind_JS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here to see the code.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Java first animation with Swing</title>
       <link>https://godeta.github.io/en/project/javafirstanim/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
