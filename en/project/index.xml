@@ -60,6 +60,17 @@ and then look at the different content of the base, sort them by time or by name
     </item>
     
     <item>
+      <title>Fireworks JS</title>
+      <link>https://godeta.github.io/en/project/fireworks/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://godeta.github.io/en/project/fireworks/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://godeta.github.io/Fireworks-JS/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here to play the game.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This small project is in 3 parts, normal fireworks, fireworks with images for the particules (I used the faces of some friends for it) and the most interesting one, fireworks as text. All of it was realized using P5.js a Javascript library.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Godeta/Fireworks-JS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Click here to see the code.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Mastermind JS</title>
       <link>https://godeta.github.io/en/project/mastermind-js/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>

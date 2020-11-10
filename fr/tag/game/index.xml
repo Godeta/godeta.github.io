@@ -24,6 +24,17 @@
     </item>
     
     <item>
+      <title>Feux d&#39;artifices JS</title>
+      <link>https://godeta.github.io/fr/project/fireworks/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://godeta.github.io/fr/project/fireworks/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://godeta.github.io/Fireworks-JS/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cliquez ici pour voir le projet.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ce petit projet à 3 parties, des feux d&amp;rsquo;artifices normaux, des feux d&amp;rsquo;artifices avec des images pour particules (j&amp;rsquo;ai utilisé les visages de certains amis) et la plus intéressante, des feux d&amp;rsquo;articises sous forme de texte. Le tout est réalisé en utilisant P5.js une librairie pour Javascript.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Godeta/Fireworks-JS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cliquez ici pour voir le code.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Mastermind JS</title>
       <link>https://godeta.github.io/fr/project/mastermind-js/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>

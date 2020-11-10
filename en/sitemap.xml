@@ -168,6 +168,21 @@
   </url>
   
   <url>
+    <loc>https://godeta.github.io/en/project/fireworks/</loc>
+    <lastmod>2020-04-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://godeta.github.io/fr/project/fireworks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://godeta.github.io/en/project/fireworks/"
+                />
+  </url>
+  
+  <url>
     <loc>https://godeta.github.io/en/project/mastermind-js/</loc>
     <lastmod>2020-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
