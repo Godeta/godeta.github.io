@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://godeta.github.io/en/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://godeta.github.io/en/tag/game/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -33,8 +33,38 @@
   </url>
   
   <url>
+    <loc>https://godeta.github.io/en/tag/networking/</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://godeta.github.io/fr/tag/networking/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://godeta.github.io/en/tag/networking/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://godeta.github.io/en/project/networkingc/</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://godeta.github.io/fr/project/networkingc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://godeta.github.io/en/project/networkingc/"
+                />
+  </url>
+  
+  <url>
     <loc>https://godeta.github.io/en/project/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -44,6 +74,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://godeta.github.io/en/project/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://godeta.github.io/en/tags/</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://godeta.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://godeta.github.io/en/tags/"
                 />
   </url>
   
@@ -59,21 +104,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://godeta.github.io/en/project/space_invaders/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://godeta.github.io/en/tags/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://godeta.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://godeta.github.io/en/tags/"
                 />
   </url>
   

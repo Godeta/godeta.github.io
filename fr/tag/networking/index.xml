@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>networking | Arnaud GODET</title>
+    <link>https://godeta.github.io/fr/tag/networking/</link>
+      <atom:link href="https://godeta.github.io/fr/tag/networking/index.xml" rel="self" type="application/rss+xml" />
+    <description>networking</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>i-default</language><copyright>© Free to use, made using the Academic library</copyright><lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://godeta.github.io/images/icon_hu2aeeba9780762ed6bd5ae91e87ef4a95_29694_512x512_fill_lanczos_center_2.png</url>
+      <title>networking</title>
+      <link>https://godeta.github.io/fr/tag/networking/</link>
+    </image>
+    
+    <item>
+      <title>Programmation réseau avec C</title>
+      <link>https://godeta.github.io/fr/project/networkingc/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://godeta.github.io/fr/project/networkingc/</guid>
+      <description>&lt;p&gt;Un projet réalisé avec le language C, la librairie &amp;ldquo;Unity&amp;rdquo; pour faire des unités de test et les libraries intégrées pour les sockets. Il vous permet de créer un serveur ou un client UDP ou TCP, et de les connecter pour envoyer des messages. Vous pouvez également utiliser TCP pour demander à un serveur web de récupérer le contenu de sa page principale et ensuite de l&amp;rsquo;afficher dans le terminal.&lt;/p&gt;
+&lt;p&gt;Example d&amp;rsquo;utilisation du projet (connection d&amp;rsquo;un serveur et client TCP):
+&lt;img src=&#34;affichageProjet.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Godeta/C_networking&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cliquez ici pour voir le code / télecharger le projet.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>agario remix</title>
+      <link>https://godeta.github.io/fr/project/agario/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://godeta.github.io/fr/project/agario/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://agario-online-mult-remix.herokuapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cliquez ici pour jouer &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Un autre projet personnel que j&amp;rsquo;ai commencé principalement pour plaisanter (faire un jeu agario dans lequel on peut jouer avec le visage de nos amis) mais j&amp;rsquo;ai fini par avoir à apprendre de la programmation réseau pour pouvoir le rendre jouable en ligne et c&amp;rsquo;est devenu un projet assez conséquant.
+Remarques rapides :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;dans le jeu, cliquez dans la direction dans laquelle vous souhaitez vous déplacer&lt;/li&gt;
+&lt;li&gt;vous pouvez ouvrir le jeu dans différents onglets pour voir par vous même comment cela fonctionne avec différents joueurs&lt;/li&gt;
+&lt;li&gt;amusez vous !&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Godeta/Agario_JS_multi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vous pouvez voir le code ici&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
