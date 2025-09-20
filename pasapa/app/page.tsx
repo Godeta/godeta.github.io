@@ -32,12 +32,12 @@ const translations = {
       online: {
         short: "Whether you're on a computer or a mobile phone (especially for Apple users), you can play online by clicking the link below.",
         long: "Details: The online version offers interactive experiences you can share with others, including collaborative boards, multiplayer sessions, and embeddable widgets.",
-        link: "View the project",
+        link: "https://godeta.github.io/carteIntroSpec-main/",
       },
       irl: {
         short: "You can print the game using my PDF file and play it with your friends!",
         long: "Details: The printable version includes themed cards and facilitator guides for in-person play. Great for gatherings, road trips, or casual meetups.",
-        link: "View the project",
+        link: "https://github.com/Godeta/carteIntroSpec-main",
       },
     },
     gameRulesTitle: 'Game Rules',
@@ -78,12 +78,12 @@ const translations = {
       online: {
         short: "Que ce soit sur ordinateur ou sur mobile (notamment pour les utilisateurs Apple), vous pouvez jouer en ligne en cliquant sur le lien ci-dessous.",
         long: "Détails : La version en ligne propose des expériences interactives à partager, comme des tableaux collaboratifs, des sessions multijoueurs et des widgets intégrables.",
-        link: "Voir le projet",
+        link: "https://godeta.github.io/carteIntroSpec-main/home",
       },
       irl: {
         short: "Vous pouvez imprimer le jeu grâce au fichier PDF et y jouer avec vos amis !",
         long: "Détails : La version imprimable contient des cartes thématiques et des guides pour animateurs, idéale pour les rencontres, les trajets ou les moments informels.",
-        link: "Voir le projet",
+        link: "https://github.com/Godeta/carteIntroSpec-main",
       },
     },
     gameRulesTitle: 'Règles du jeu',
@@ -107,16 +107,11 @@ const translations = {
 export default function Page() {
 const [lang, setLang] = useState<'en'|'fr'>('en')
 const t = translations[lang]
-const [expanded, setExpanded] = useState([false, false, false])
 const [expandedPlay, setExpandedPlay] = useState([false, false, false]) // for Play cards
 const [showOverall, setShowOverall] = useState(false) // for Overall Rules
 const [activeCategory, setActiveCategory] = useState<CategoryKey | null>(null)
 
 
-
-const toggle = (i:number) => {
-setExpanded(prev => prev.map((v,idx) => idx===i ? !v : v))
-}
 const togglePlay = (i: number) => {
   setExpandedPlay(prev => prev.map((v, idx) => idx === i ? !v : v))
 }
@@ -180,6 +175,10 @@ return (
         <p className="text-sm text-slate-600 mb-4">{t.play[col.key].short}</p>
 
         <div>
+          <div className="mt-4 text-sm text-slate-700">
+    <p className="mb-2">{t.play[col.key].long}</p>
+    <a href={t.play[col.key].link} className="text-blue-500 underline">{t.play[col.key].link}</a>
+  </div>
           <button
   onClick={() => togglePlay(i)}
   className="inline-flex items-center gap-2 px-3 py-2 rounded-md border text-sm"
@@ -187,12 +186,6 @@ return (
   {expandedPlay[i] ? t.lessBtn : t.moreBtn}
 </button>
 
-{expandedPlay[i] && (
-  <div className="mt-4 text-sm text-slate-700">
-    <p className="mb-2">{t.play[col.key].long}</p>
-    <a href="#" className="text-blue-500 underline">{t.play[col.key].link}</a>
-  </div>
-)}
 
         </div>
       </article>
@@ -252,7 +245,7 @@ return (
   <div>
   <h3 className="font-semibold">{t.contactTitle}</h3>
   <p className="text-sm text-slate-600 mt-2">Email: <a href="mailto:godeta61@gmail.com" className="underline">godeta61@gmail.com</a></p>
-  <p className="text-sm text-slate-600">Google form: <a href="#" className="underline">@example</a></p>
+  <p className="text-sm text-slate-600">Google form: <a href="https://forms.gle/skvWgiUhYQkVCEoC9" className="underline">feedback !</a></p>
   </div>
 
 
