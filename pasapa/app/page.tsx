@@ -42,10 +42,13 @@ const translations = {
     },
     gameRulesTitle: 'Game Rules',
     overallRules: 'Overall Rules',
-    overallRulesText: "Here’s how the game works: ...",
+    overallRulesText: "Here’s how the game works: The game is divided into 7 categories of questions, always starting with the 'Light' category. A round ends when all players have answered a card from the current category. At the end of each round, the group decides whether to continue in the same category or move to the next. Each round also includes a randomly drawn Action card, giving players the choice to either answer the classic question or follow a special prompt that involves a twist or action. It's recommended to end the game with a card from the 'Together' category, even if you haven’t played through all categories. The goal is to spark conversation—so feel free to digress, go off-topic, and talk about anything and everything!",
     categoriesRules: 'Categories Rules',
     categories: {
-      love: { title: 'Love', text: 'Questions that explore relationships and affection.' },
+      situation: {
+  title: "Situation",
+  text: "Each player receives a real-life scenario—open-ended and designed to spark different reactions. The goal is to reflect on how you would respond, share your emotions, and maybe tell a personal story. When reading a situation, you can: 1) Describe your instinctive reaction—would you act or stay passive? 2) List the emotions you might feel—stress, joy, awkwardness, anger, surprise, pride… and how they influence your response. 3) Share a personal story—has this happened to you? How did it go? Would you react differently now? 4) Imagine other ways to respond—how might someone else react? Do you understand their perspective?"
+},
       friendship: { title: 'Friendship', text: 'Questions about trust, support, and bonds.' },
       philosophy: { title: 'Philosophy', text: 'Open-ended questions about life, meaning, and values.' },
       creativity: { title: 'Creativity', text: 'Prompts that spark imagination and innovation.' },
@@ -88,10 +91,13 @@ const translations = {
     },
     gameRulesTitle: 'Règles du jeu',
     overallRules: 'Règles générales',
-    overallRulesText: "Voici comment fonctionne le jeu : ...",
+    overallRulesText: "Voici comment fonctionne le jeu : Le jeu se divise en 7 catégories de questions, en commençant toujours par la catégorie 'Léger'. Un tour se termine lorsque tous les joueurs ont répondu à une carte de la catégorie en cours. À la fin du tour, le groupe choisit de rejouer dans la même catégorie ou de passer à la suivante. À chaque tour, une carte Action est tirée au hasard, offrant le choix entre répondre à la question classique ou suivre une consigne spéciale qui ajoute une touche originale. Il est conseillé de terminer la partie avec une carte de la catégorie 'Ensemble', même si toutes les catégories n’ont pas été jouées. Le but est d’échanger et discuter, alors laissez-vous aller : digressez, sortez du sujet, parlez de tout et de rien !",
     categoriesRules: 'Règles par catégorie',
     categories: {
-      love: { title: 'Amour', text: 'Questions qui explorent les relations et l’affection.' },
+      situation: {
+  title: "Situation",
+  text: "Chaque joueur reçoit une situation de la vie quotidienne, volontairement ouverte pour susciter des réactions variées. Le but est de réfléchir à sa manière d’agir, partager ses émotions et éventuellement raconter une anecdote personnelle. Quand tu lis une situation, tu peux : 1) Décrire ta réaction spontanée — agirais-tu ou resterais-tu passif ? 2) Lister les émotions que tu pourrais ressentir — stress, joie, gêne, colère, surprise, fierté… influencent-elles ta réaction ? 3) Partager une histoire personnelle — est-ce que ça t’est déjà arrivé ? Comment ça s’est passé ? Aurais-tu réagi autrement aujourd’hui ? 4) Imaginer d’autres façons de réagir — comment quelqu’un d’autre pourrait-il réagir ? Est-ce que tu comprends ces autres réactions ?"
+},
       friendship: { title: 'Amitié', text: 'Questions sur la confiance, le soutien et les liens.' },
       philosophy: { title: 'Philosophie', text: 'Questions ouvertes sur la vie, le sens et les valeurs.' },
       creativity: { title: 'Créativité', text: 'Invitations à l’imagination et à l’innovation.' },
