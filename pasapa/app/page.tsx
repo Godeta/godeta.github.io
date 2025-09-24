@@ -157,7 +157,7 @@ return (
   </div>
   <div className="relative w-full h-64 md:h-80 rounded-2xl overflow-hidden shadow">
   <Image
-  src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop"
+  src="/icon.png"
   alt="Context image"
   fill
   style={{ objectFit: 'cover' }}
@@ -165,38 +165,56 @@ return (
   </div>
   </section>
 
-  <section id="play" className="max-w-5xl mx-auto px-6 py-12">
-  <h2 className="text-2xl font-bold mb-6">{t.playTitle}</h2>
-  <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-    {([
-      { key: 'phone', title: t.onPhone, img: 'https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=800&auto=format&fit=crop' },
-      { key: 'online', title: t.online, img: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=800&auto=format&fit=crop' },
-      { key: 'irl', title: t.inRealLife, img: 'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=800&auto=format&fit=crop' },
-    ] as { key: PlayKey; title: string; img: string }[]).map((col, i) => (
-      <article key={col.key} className="rounded-2xl border p-5 shadow-sm hover:shadow-md transition">
-        <div className="relative w-full h-40 rounded-lg overflow-hidden mb-4">
-          <Image src={col.img} alt={col.title} fill style={{ objectFit: 'cover' }} />
-        </div>
-        <h3 className="font-semibold text-lg mb-2">{col.title}</h3>
-        <p className="text-sm text-slate-600 mb-4">{t.play[col.key].short}</p>
+    <section id="play" className="max-w-5xl mx-auto px-6 py-12">
+    <h2 className="text-2xl font-bold mb-6">{t.playTitle}</h2>
+    <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+      {([
+        { key: 'phone', title: t.onPhone, img: 'https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=800&auto=format&fit=crop' },
+        { key: 'online', title: t.online, img: 'https://images.unsplash.com/photo-1507297230445-ff678f10b524?w=600&auto=format&fit=crop' },
+        { key: 'irl', title: t.inRealLife, img: 'https://images.unsplash.com/photo-1617286931389-9082553de6be?w=600&auto=format&fit=crop&q=60' },
+      ] as { key: PlayKey; title: string; img: string }[]).map((col, i) => (
+        <article key={col.key} className="rounded-2xl border p-5 shadow-sm hover:shadow-md transition">
+          <div className="relative w-full h-40 rounded-lg overflow-hidden mb-4">
+            <Image src={col.img} alt={col.title} fill style={{ objectFit: 'cover' }} />
+          </div>
+          <h3 className="font-semibold text-lg mb-2">{col.title}</h3>
+          <p className="text-sm text-slate-600 mb-4">{t.play[col.key].short}</p>
 
-        <div>
-          <div className="mt-4 text-sm text-slate-700">
+          <div>
+            <div className="mt-4 text-sm text-slate-700">
+      <a href={t.play[col.key].link} className="text-blue-500 underline">{t.play[col.key].link}</a>
+    </div>
+    {expandedPlay[i] && (
+  <div className="mt-4 text-sm text-slate-700">
     <p className="mb-2">{t.play[col.key].long}</p>
-    <a href={t.play[col.key].link} className="text-blue-500 underline">{t.play[col.key].link}</a>
   </div>
-          <button
-  onClick={() => togglePlay(i)}
-  className="inline-flex items-center gap-2 px-3 py-2 rounded-md border text-sm"
->
-  {expandedPlay[i] ? t.lessBtn : t.moreBtn}
-</button>
+)}
+            <button
+    onClick={() => togglePlay(i)}
+    className="inline-flex items-center gap-2 px-3 py-2 rounded-md border text-sm"
+  >
+    {expandedPlay[i] ? t.lessBtn : t.moreBtn}
+    
+  </button>
 
 
         </div>
       </article>
     ))}
   </div>
+<div style={{display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
+  <br/> <p> Small demo : <br/>
+<video
+        src="/demo.mp4"
+        autoPlay
+        muted
+        loop
+        controls
+        style={{ width: '100%', maxWidth: '800px', borderRadius: '12px' }}
+      />
+
+      </p>
+</div>
 </section>
 
 
@@ -257,8 +275,8 @@ return (
 
   <div>
   <h3 className="font-semibold">{t.modifyTitle}</h3>
-  <p className="text-sm text-slate-600 mt-2">To modify the game: clone the repo, edit the JSON config in <code>data/config.json</code>, modify components in <code>components/</code>, and adapt the content in <code>app/page.tsx</code>. Use small, focused commits and preview with <code>npm run dev</code>.</p>
-  <p className="text-sm text-slate-600 mt-2">Recommended: keep assets small, use WebP images, and test on mobile devices.</p>
+  <p className="text-sm text-slate-600 mt-2">To modify the game: look at the instructions <a className='text-blue-400' href='https://github.com/Godeta/carteIntroSpec-main'> here and especially in the files "irl_game" </a> or contact me for help.</p>
+  <p className="text-sm text-slate-600 mt-2">Recommended: knowing how to use Canva or other design tool</p>
   </div>
 
 
