@@ -3,7 +3,7 @@ import { ReactNode } from 'react'
 
 
 export const metadata = {
-title: 'Minimal Play Site',
+title: 'Pasapa presentation',
 description: 'Modern, minimalist single-page site with Play sections',
 }
 

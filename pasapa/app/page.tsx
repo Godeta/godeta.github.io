@@ -17,6 +17,7 @@ const translations = {
       "Pasapa is a playful app designed to support a printable card game that sparks meaningful conversations. Whether you're with close friends or new acquaintances, it helps you dive into light or deep discussions—anytime, anywhere: in the car, on a walk, or around a meal. Inspired by the idea of “36 questions to fall in love,” Pasapa blends thoughtful prompts with game-like mechanics to make talking fun, engaging, and endlessly reusable.",
     contactTitle: 'Contact',
     modifyTitle: 'How to modify the game',
+    modifyContent: 'Look at the instructions ',
     projectsTitle: 'Other projects',
     onPhone: 'On Your Phone',
     online: 'Online',
@@ -45,16 +46,17 @@ const translations = {
     overallRulesText: "Here’s how the game works: The game is divided into 7 categories of questions, always starting with the 'Light' category. A round ends when all players have answered a card from the current category. At the end of each round, the group decides whether to continue in the same category or move to the next. Each round also includes a randomly drawn Action card, giving players the choice to either answer the classic question or follow a special prompt that involves a twist or action. It's recommended to end the game with a card from the 'Together' category, even if you haven’t played through all categories. The goal is to spark conversation—so feel free to digress, go off-topic, and talk about anything and everything!",
     categoriesRules: 'Categories Rules',
     categories: {
+      
+      leger: { title: 'Light', text: 'Questions to break the ice and start the conversation.' },
       situation: {
   title: "Situation",
   text: "Each player receives a real-life scenario—open-ended and designed to spark different reactions. The goal is to reflect on how you would respond, share your emotions, and maybe tell a personal story. When reading a situation, you can: 1) Describe your instinctive reaction—would you act or stay passive? 2) List the emotions you might feel—stress, joy, awkwardness, anger, surprise, pride… and how they influence your response. 3) Share a personal story—has this happened to you? How did it go? Would you react differently now? 4) Imagine other ways to respond—how might someone else react? Do you understand their perspective?"
 },
-      friendship: { title: 'Friendship', text: 'Questions about trust, support, and bonds.' },
-      philosophy: { title: 'Philosophy', text: 'Open-ended questions about life, meaning, and values.' },
-      creativity: { title: 'Creativity', text: 'Prompts that spark imagination and innovation.' },
-      nature: { title: 'Nature', text: 'Discussions about environment and sustainability.' },
-      culture: { title: 'Culture', text: 'Reflections on art, traditions, and identities.' },
-      fun: { title: 'Fun', text: 'Light-hearted, playful questions to laugh together.' },
+      anecdotes: { title: 'Stories', text: 'Now It is the time to share personnal stories.' },
+      valeurs: { title: 'Values', text: 'Questions to talk about deeper, important things for you.' },
+      ethique: { title: 'Ethics', text: 'These questions leads to debates and the confrontation of different point of views. Stay respectful and try to build your overall opinion together and not only against each other.' },
+      futur: { title: 'Futur', text: 'Project yourself in the future, this is not an easy exercice but do your best !' },
+      ensemble: { title: 'Together', text: 'Questions for the end of the game, they can either be very personnal or something to finish with a good memory together.' },
     },
 
   },
@@ -66,6 +68,7 @@ const translations = {
       "Pasapa est une appli ludique conçue pour accompagner un jeu de cartes imprimable qui favorise les échanges authentiques. Que ce soit entre proches ou avec de nouvelles connaissances, elle facilite les discussions légères ou profondes, à tout moment et en tout lieu : en voiture, en balade ou autour d’un repas. Inspirée du concept des “36 questions pour tomber amoureux”, Pasapa mêle des questions réfléchies à des mécaniques de jeu pour rendre la conversation amusante, captivante et toujours renouvelable.",
     contactTitle: 'Contact',
     modifyTitle: 'Comment modifier le jeu',
+    modifyContent: 'Suivez les instructions : ',
     projectsTitle: 'Autres projets',
     onPhone: 'Sur votre téléphone',
     online: 'En ligne',
@@ -76,34 +79,34 @@ const translations = {
       phone: {
         short: "Si vous êtes sur Android, vous pouvez télécharger l'application depuis le Play Store et jouer hors ligne quand vous voulez avec vos amis.",
         long: "Détails : L'application propose des cartes de discussion et des modes de jeu variés pour des échanges spontanés ou profonds. Elle est légère, utilisable hors ligne et idéale pour les moments conviviaux.",
-        link: "Voir le projet",
+        link: "https://play.google.com/store/apps/details?id=com.godet.pasapa",
       },
       online: {
         short: "Que ce soit sur ordinateur ou sur mobile (notamment pour les utilisateurs Apple), vous pouvez jouer en ligne en cliquant sur le lien ci-dessous.",
-        long: "Détails : La version en ligne propose des expériences interactives à partager, comme des tableaux collaboratifs, des sessions multijoueurs et des widgets intégrables.",
+        long: "Détails : La version en ligne est équivalente à la version mobile sous android.",
         link: "https://godeta.github.io/carteIntroSpec-main/home",
       },
       irl: {
         short: "Vous pouvez imprimer le jeu grâce au fichier PDF et y jouer avec vos amis !",
-        long: "Détails : La version imprimable contient des cartes thématiques et des guides pour animateurs, idéale pour les rencontres, les trajets ou les moments informels.",
+        long: "Détails : La version imprimable contient le pdf de toutes les cartes, ainsi que le lien Canva pour copier le projet et le modifier vous même !",
         link: "https://github.com/Godeta/carteIntroSpec-main",
       },
     },
     gameRulesTitle: 'Règles du jeu',
     overallRules: 'Règles générales',
-    overallRulesText: "Voici comment fonctionne le jeu : Le jeu se divise en 7 catégories de questions, en commençant toujours par la catégorie 'Léger'. Un tour se termine lorsque tous les joueurs ont répondu à une carte de la catégorie en cours. À la fin du tour, le groupe choisit de rejouer dans la même catégorie ou de passer à la suivante. À chaque tour, une carte Action est tirée au hasard, offrant le choix entre répondre à la question classique ou suivre une consigne spéciale qui ajoute une touche originale. Il est conseillé de terminer la partie avec une carte de la catégorie 'Ensemble', même si toutes les catégories n’ont pas été jouées. Le but est d’échanger et discuter, alors laissez-vous aller : digressez, sortez du sujet, parlez de tout et de rien !",
+    overallRulesText: "Voici comment fonctionne le jeu : Le jeu se divise en 7 catégories de questions, en commençant toujours par la catégorie 'Léger'. Un tour se termine lorsque tous les joueurs ont répondu à une carte de la catégorie en cours. À la fin du tour, le groupe peut passer à la catégorie suivante. À chaque tour, une carte Action est tirée au hasard, offrant le choix entre répondre à la question classique ou suivre une consigne spéciale qui ajoute une touche originale. Il est conseillé de terminer la partie avec une carte de la catégorie 'Ensemble', même si toutes les catégories n’ont pas été jouées. Le but est d’échanger et discuter, alors laissez-vous aller : digressez, sortez du sujet, parlez de tout et de rien !",
     categoriesRules: 'Règles par catégorie',
     categories: {
+      leger: { title: 'Léger', text: 'Répondez à la question comme il vous semble. Ce sont un peu les questions brise-glace de début de partie.' },
       situation: {
   title: "Situation",
   text: "Chaque joueur reçoit une situation de la vie quotidienne, volontairement ouverte pour susciter des réactions variées. Le but est de réfléchir à sa manière d’agir, partager ses émotions et éventuellement raconter une anecdote personnelle. Quand tu lis une situation, tu peux : 1) Décrire ta réaction spontanée — agirais-tu ou resterais-tu passif ? 2) Lister les émotions que tu pourrais ressentir — stress, joie, gêne, colère, surprise, fierté… influencent-elles ta réaction ? 3) Partager une histoire personnelle — est-ce que ça t’est déjà arrivé ? Comment ça s’est passé ? Aurais-tu réagi autrement aujourd’hui ? 4) Imaginer d’autres façons de réagir — comment quelqu’un d’autre pourrait-il réagir ? Est-ce que tu comprends ces autres réactions ?"
 },
-      friendship: { title: 'Amitié', text: 'Questions sur la confiance, le soutien et les liens.' },
-      philosophy: { title: 'Philosophie', text: 'Questions ouvertes sur la vie, le sens et les valeurs.' },
-      creativity: { title: 'Créativité', text: 'Invitations à l’imagination et à l’innovation.' },
-      nature: { title: 'Nature', text: 'Discussions sur l’environnement et la durabilité.' },
-      culture: { title: 'Culture', text: 'Réflexions sur l’art, les traditions et les identités.' },
-      fun: { title: 'Fun', text: 'Questions légères et amusantes pour rire ensemble.' },
+      anecdotes: { title: 'Anecdotes', text: 'On entre dans une partie plus personnelle où l\'on se raconte les uns aux autres des histoires. ' },
+      valeurs: { title: 'Valeurs', text: 'Pour parler de choses importantes pour vous, qui vous touche.' },
+      ethique: { title: 'Ethique', text: 'Cette partie amène au débat et à la confrontation d\'avis différents. Restez respectueux essayez d\'avancer ensemble dans la construction de vos reflexions.' },
+      futur: { title: 'Futur', text: 'Cet exercice d\'introspection n\'est pas toujours facile mais faites donc l\'effort et projetez vous dans l\'avenir pour répondre à ces questions. ' },
+      ensemble: { title: 'Ensemble', text: 'Très bien pour conclure, certaines de ces questions sont personnelles et intimes tandis que d\'autres on simplement pour but de construire ensemble et finir la partie sur une bonne note.' },
     },
 
   },
@@ -275,7 +278,7 @@ return (
 
   <div>
   <h3 className="font-semibold">{t.modifyTitle}</h3>
-  <p className="text-sm text-slate-600 mt-2">To modify the game: look at the instructions <a className='text-blue-400' href='https://github.com/Godeta/carteIntroSpec-main'> here and especially in the files "irl_game" </a> or contact me for help.</p>
+  <p className="text-sm text-slate-600 mt-2"> {t.modifyContent} <a className='text-blue-400' href='https://github.com/Godeta/carteIntroSpec-main'> here and especially in the files "irl_game" </a> or contact me for help.</p>
   <p className="text-sm text-slate-600 mt-2">Recommended: knowing how to use Canva or other design tool</p>
   </div>
 
