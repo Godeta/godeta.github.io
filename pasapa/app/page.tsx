@@ -28,7 +28,7 @@ const translations = {
       phone: {
         short: "If you're on Android, you can download the app from the Play Store and play offline anytime with your friends.",
         long: "Details: The app includes a variety of conversation prompts and game modes designed for spontaneous or deep discussions. It's lightweight, offline-friendly, and perfect for social moments.",
-        link: "View the project",
+        link: "https://play.google.com/store/apps/details?id=com.godet.pasapa",
       },
       online: {
         short: "Whether you're on a computer or a mobile phone (especially for Apple users), you can play online by clicking the link below.",
