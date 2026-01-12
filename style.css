@@ -147,18 +147,30 @@ body {
     padding: 3rem 0;
     margin-top: 2rem;
 }
-
 .fun-projects-container {
-    display: flex;
-    flex-direction: column;
-    gap: 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 .fun-project-card {
-    border-radius: 12px;
-    box-shadow: 0 6px 25px rgba(0, 0, 0, 0.1);
-    transition: all 0.3s ease;
-    border: none;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  border: none;
+  width: calc(33.33% - 1rem); /* Adjust the width to fit three cards per row */
+  flex: 0 0 33.33%;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 768px) {
+  .fun-project-card {
+    width: 100%; /* Adjust the width to fit one card per row on smaller screens */
+    flex: 0 0 100%;
+    margin-right: 0;
+  }
 }
 
 .fun-project-card:hover {
