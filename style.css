@@ -5,6 +5,10 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+ul {
+    color: #2c3e50;
+}
+
 /* Sections principales */
 .main-section {
     height: 100%;
@@ -60,6 +64,11 @@ body {
     border-radius: 25px;
     font-weight: 600;
     transition: all 0.3s ease;
+}
+@media (max-width: 768px) {
+    .button {
+        font-size: 15px;
+    }
 }
 
 .button:hover {
